@@ -57,3 +57,9 @@ python -m unittest > result
 Ran 4 tests in 0.001s
 
 OK
+
+issue-4:
+
+python -m pytest test_one_hot_encoder_pytest.py > result
+
+================================================== 4 passed in 0.03s ==================================================
