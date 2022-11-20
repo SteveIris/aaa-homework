@@ -12,3 +12,7 @@ python -m pytest test_morse.py
 issue-3:
 
 python -m unittest
+
+issue-4:
+
+python -m pytest test_one_hot_encoder_pytest.py
